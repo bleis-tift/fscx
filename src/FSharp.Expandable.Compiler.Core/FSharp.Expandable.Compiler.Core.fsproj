@@ -83,6 +83,7 @@
     <Compile Include="SafeResolver.fs" />
     <Compile Include="AssemblyLoader.fs" />
     <Compile Include="Compiler.fs" />
+    <Compile Include="ActivePatterns.fs" />
     <None Include="paket.references" />
     <None Include="paket.template" />
     <Content Include="App.config" />
